@@ -1,0 +1,58 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\EventosBotonTexto.cs">
+    <Files>
+      <File FileName="Assets\scripts\EventosBotonTexto.cs" Line="48" Column="42" />
+      <File FileName="Assets\scripts\OnClickContinuar.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\ScriptAudio.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\OnClickBotonesMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\NoDestruir.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\OnClickBotones.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\EventosBotonesMenu1.cs" Line="33" Column="48" />
+      <File FileName="Assets\scripts\Interfaz.cs" Line="91" Column="62" />
+      <File FileName="Assets\scripts\Player.cs" Line="104" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\TULIO\Desktop\PROYECTO SAMIR SONIDO\PROYECTOS\EJEMPLO\Assets\scripts\OnClickBotones.cs" line="37" />
+      <Breakpoint file="C:\Users\TULIO\Desktop\PROYECTO SAMIR SONIDO\PROYECTOS\EJEMPLO\Assets\scripts\OnClickBotones.cs" line="32" />
+      <Breakpoint file="C:\Users\TULIO\Desktop\PROYECTO SAMIR SONIDO\PROYECTOS\EJEMPLO\Assets\scripts\OnClickBotones.cs" line="27" />
+      <Breakpoint file="C:\Users\TULIO\Desktop\PROYECTO SAMIR SONIDO\PROYECTOS\EJEMPLO\Assets\scripts\OnClickBotonesMenu.cs" line="16" />
+      <Breakpoint file="C:\Users\TULIO\Desktop\PROYECTO SAMIR SONIDO\PROYECTOS\EJEMPLO\Assets\scripts\OnClickBotonesMenu.cs" line="6" />
+      <Breakpoint file="C:\Users\TULIO\Desktop\PROYECTO SAMIR SONIDO\PROYECTOS\EJEMPLO\Assets\scripts\OnClickBotones.cs" line="12" />
+      <Breakpoint file="C:\Users\TULIO\Desktop\PROYECTO SAMIR SONIDO\PROYECTOS\EJEMPLO\Assets\scripts\OnClickBotonesMenu.cs" line="9" />
+      <Breakpoint file="C:\Users\TULIO\Desktop\PROYECTO SAMIR SONIDO\PROYECTOS\EJEMPLO\Assets\scripts\OnClickBotones.cs" line="17" />
+      <Breakpoint file="C:\Users\TULIO\Desktop\PROYECTO SAMIR SONIDO\PROYECTOS\EJEMPLO\Assets\scripts\OnClickContinuar.cs" line="31" />
+      <Breakpoint file="C:\Users\TULIO\Desktop\PROYECTO SAMIR SONIDO\PROYECTOS\EJEMPLO\Assets\scripts\OnClickContinuar.cs" line="11" />
+      <Breakpoint file="C:\Users\TULIO\Desktop\PROYECTO SAMIR SONIDO\PROYECTOS\EJEMPLO\Assets\scripts\OnClickContinuar.cs" line="21" />
+      <Breakpoint file="C:\Users\TULIO\Desktop\PROYECTO SAMIR SONIDO\PROYECTOS\EJEMPLO\Assets\scripts\EventosBotonTexto.cs" line="21" />
+      <Breakpoint file="C:\Users\TULIO\Desktop\PROYECTO SAMIR SONIDO\PROYECTOS\EJEMPLO\Assets\scripts\EventosBotonTexto.cs" line="14" />
+      <Breakpoint file="C:\Users\TULIO\Desktop\PROYECTO SAMIR SONIDO\PROYECTOS\EJEMPLO\Assets\scripts\EventosBotonesMenu1.cs" line="12" />
+      <Breakpoint file="C:\Users\TULIO\Desktop\PROYECTO SAMIR SONIDO\PROYECTOS\EJEMPLO\Assets\scripts\EventosBotonesMenu1.cs" line="20" />
+      <Breakpoint file="C:\Users\TULIO\Desktop\PROYECTO SAMIR SONIDO\PROYECTOS\EJEMPLO\Assets\scripts\EventosBotonesMenu1.cs" line="31" />
+      <Breakpoint file="C:\Users\TULIO\Desktop\PROYECTO SAMIR SONIDO\PROYECTOS\EJEMPLO\Assets\scripts\Interfaz.cs" line="114" />
+      <Breakpoint file="C:\Users\TULIO\Desktop\PROYECTO SAMIR SONIDO\PROYECTOS\EJEMPLO\Assets\scripts\Interfaz.cs" line="33" />
+      <Breakpoint file="C:\Users\TULIO\Desktop\PROYECTO SAMIR SONIDO\PROYECTOS\EJEMPLO\Assets\scripts\Interfaz.cs" line="46" />
+      <Breakpoint file="C:\Users\TULIO\Desktop\PROYECTO SAMIR SONIDO\PROYECTOS\EJEMPLO\Assets\scripts\Player.cs" line="73" />
+      <Breakpoint file="C:\Users\TULIO\Desktop\PROYECTO SAMIR SONIDO\PROYECTOS\EJEMPLO\Assets\scripts\Player.cs" line="26" />
+      <Breakpoint file="C:\Users\TULIO\Desktop\PROYECTO SAMIR SONIDO\PROYECTOS\EJEMPLO\Assets\scripts\Player.cs" line="33" />
+      <Breakpoint file="C:\Users\TULIO\Desktop\PROYECTO SAMIR SONIDO\PROYECTOS\EJEMPLO\Assets\scripts\Player.cs" line="58" />
+      <Breakpoint file="C:\Users\TULIO\Desktop\PROYECTO SAMIR SONIDO\PROYECTOS\EJEMPLO\Assets\scripts\Interfaz.cs" line="34" />
+      <Breakpoint file="C:\Users\TULIO\Desktop\PROYECTO SAMIR SONIDO\PROYECTOS\EJEMPLO\Assets\scripts\Interfaz.cs" line="136" />
+      <Breakpoint file="C:\Users\TULIO\Desktop\PROYECTO SAMIR SONIDO\PROYECTOS\EJEMPLO\Assets\scripts\Interfaz.cs" line="120" />
+      <Breakpoint file="C:\Users\TULIO\Desktop\PROYECTO SAMIR SONIDO\PROYECTOS\EJEMPLO\Assets\scripts\EventosBotonTexto.cs" line="36" />
+      <Breakpoint file="C:\Users\TULIO\Desktop\PROYECTO SAMIR SONIDO\PROYECTOS\EJEMPLO\Assets\scripts\Interfaz.cs" line="35" />
+      <Breakpoint file="C:\Users\TULIO\Desktop\PROYECTO SAMIR SONIDO\PROYECTOS\EJEMPLO\Assets\scripts\Interfaz.cs" line="47" />
+      <Breakpoint file="C:\Users\TULIO\Desktop\PROYECTO SAMIR SONIDO\PROYECTOS\EJEMPLO\Assets\scripts\EventosBotonTexto.cs" line="8" />
+      <Breakpoint file="C:\Users\TULIO\Desktop\PROYECTO SAMIR SONIDO\PROYECTOS\EJEMPLO\Assets\scripts\EventosBotonTexto.cs" line="47" />
+      <Breakpoint file="C:\Users\TULIO\Desktop\PROYECTO SAMIR SONIDO\PROYECTOS\EJEMPLO\Assets\scripts\Interfaz.cs" line="141" />
+      <Breakpoint file="C:\Users\TULIO\Desktop\PROYECTO SAMIR SONIDO\PROYECTOS\EJEMPLO\Assets\scripts\Interfaz.cs" line="36" />
+      <Breakpoint file="C:\Users\TULIO\Desktop\PROYECTO SAMIR SONIDO\PROYECTOS\EJEMPLO\Assets\scripts\Interfaz.cs" line="145" />
+      <Breakpoint file="C:\Users\TULIO\Desktop\PROYECTO SAMIR SONIDO\PROYECTOS\EJEMPLO\Assets\scripts\Player.cs" line="94" />
+      <Breakpoint file="C:\Users\TULIO\Desktop\PROYECTO SAMIR SONIDO\PROYECTOS\EJEMPLO\Assets\scripts\Interfaz.cs" line="78" />
+      <Breakpoint file="C:\Users\TULIO\Desktop\PROYECTO SAMIR SONIDO\PROYECTOS\EJEMPLO\Assets\scripts\EventosBotonTexto.cs" line="19" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
